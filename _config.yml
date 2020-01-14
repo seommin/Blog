@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Blog"
+baseurl: "/type-theme"
 url: "https://seommin.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "seommin/Blog"
+  github: "seommin/type-theme"
   gitter:
   google_plus:
   instagram:
